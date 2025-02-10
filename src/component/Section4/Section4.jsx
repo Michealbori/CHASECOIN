@@ -2,7 +2,7 @@ import React from "react";
 import "./Section4.css"
 export default function Section4() {
   return (
-    <div className="HeroSection" id="SectionBelow">
+    <div className="HeroSection" id="SectionBelow" >
       <section className="imageSection">
         <img src="/Coin.jpg" alt="" />
       </section>

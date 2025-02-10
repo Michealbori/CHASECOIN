@@ -3,6 +3,11 @@
 .Section3 
 {
     margin-top: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 120px;
 }
 
 .SectionText3
@@ -27,11 +32,13 @@ background: linear-gradient(135deg, #ff00ff, #00ffff);
 {
     display: flex;
     justify-content: center;
+
 }
 
 .Section3image img
 {
     border-radius: 20px;
+    width: 70%;
 }
 
 .stay 
