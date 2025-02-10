@@ -1,5 +1,4 @@
 import React from 'react'
-
 import "./Header.css"
 
 export default function Header() {
@@ -19,9 +18,6 @@ export default function Header() {
             <button type="button" class="btn-close  shadow-none" data-bs-dismiss="offcanvas" aria-label="Close"></button>
           </div>
           <div class="offcanvas-body">
-            {/* <ul class="navbar-nav justify-content-center flex-grow-1 pe-3">
-            <h2 className='NavLinks'>CHASE COIN</h2>
-            </ul> */}
             
             <ul class="navbar-nav justify-content-center flex-grow-1 pe-3">
               <li class="nav-item mx-2 design">

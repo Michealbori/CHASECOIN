@@ -1,7 +1,5 @@
 import React from "react";
 import "./Section2.css"
-// import Aos from "aos";
-// import 'aos/dist/aos.css';
 
 export default function Section2() {
   return (
