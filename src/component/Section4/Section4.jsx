@@ -4,7 +4,7 @@ export default function Section4() {
   return (
     <div className="HeroSection" id="SectionBelow" >
       <section className="imageSection">
-        <img src="/Coin.jpg" alt="" />
+        <img src="/chase1.jpg" alt="" />
       </section>
       <section className="TextSection">
         <p>Get Involved and Join the Movement</p>
