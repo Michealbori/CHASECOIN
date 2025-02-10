@@ -18,6 +18,12 @@
     flex-direction: column;
 }
 
+.SectionText3 p
+{
+    font-family: 'chaseCoinFont3';
+    font-weight: 500;
+}
+
 .SectionText3 h2
 {
 width: 1000px;

@@ -62,5 +62,11 @@ margin-bottom: 17px;
 .JoinLinks
 {
   text-decoration: none;
-  color: #ff00ff;
+  color: #f2e3f2;
+  font-weight: 700;
+}
+
+.navbar-toggler 
+{
+  color: #f2e3f2;
 }

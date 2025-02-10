@@ -17,7 +17,22 @@ export default function Section2() {
           updates.
         </h2>
         <p> Connect with Fellow CHASE COIN Enthusiasts</p>
-       
+        <div className="Button">
+          <a
+            href="https://t.me/mychasecoin"
+            class="social-btn telegram telegramButton"
+            target="_blank"
+          >
+            <img src="/telegram.png" alt="telegram Page" />
+          </a>
+          <a
+            href="https://x.com/CHASECOINSOL"
+            class="social-btn twitter"
+            target="_blank"
+          >
+            <img src="/twitter.png" alt="twitter Page" />
+          </a>
+        </div>
       </section>
     </div>
   );

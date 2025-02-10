@@ -8,6 +8,13 @@
 }
 
 @font-face {
+  font-family: 'chaseCoinFont3';
+  src: url('/chaseCoin3.otf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
   font-family: 'chase';
   src: url('/chase.ttf') format('truetype');
   font-weight: normal;
@@ -52,6 +59,7 @@
   justify-content: center !important;
   padding: 50px 30px 0 30px;
   gap: 170px;
+  margin-top: 200px;
   -webkit-animation: scale-up-center 0.4s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
           animation: scale-up-center 0.4s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
 }
@@ -59,6 +67,10 @@
 /* Text Section */
 .TextSection {
   padding-top: 30px;
+}
+.TextSection p {
+  font-family: 'chaseCoinFont3';
+  font-weight: 500;
 }
 
 .TextSection h2 {
@@ -284,6 +296,7 @@ color: #ff00ff;
   .TextSection  h2 
   {
     width: 350px;
+    padding-left: 12px;
   }
 
   .HeroSection h5 {

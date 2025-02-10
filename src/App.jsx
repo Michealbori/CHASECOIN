@@ -17,7 +17,7 @@ function App() {
       <Section3 />
       <Section4 />
       <Chart />
-      <Footer />
+      {/* <Footer /> */}
     </>
   );
 }
