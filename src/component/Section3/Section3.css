@@ -68,11 +68,20 @@ background: linear-gradient(135deg, #ff00ff, #00ffff);
 .SectionText3 h2 
 {
     width: 350px;
-    text-wrap: wrap;
+    /* text-wrap: wrap; */
+    text-align: start;
 }
 .stay
 {
     text-wrap: wrap;
     width: 350px;
 }
+
+.SectionText3 p
+{
+    font-family: 'chaseCoinFont3';
+    font-weight: 500;
+    width: 350px;
+}
+
 }

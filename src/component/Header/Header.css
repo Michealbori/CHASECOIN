@@ -52,6 +52,16 @@ width: 20px;
 margin-bottom: 17px;
 }
 
+.navbar-toggler {
+  border-color: white !important; /* Change border to white */
+  margin-left: 20px;
+}
+
+.navbar-toggler-icon {
+  filter: invert(1); /* Inverts the color to white */
+}
+
+
 /* #NavLinks 
 {
   text-decoration: none;
