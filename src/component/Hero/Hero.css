@@ -58,11 +58,11 @@
 
 /* Text Section */
 .TextSection {
-  padding-top: 120px;
+  padding-top: 30px;
 }
 
 .TextSection h2 {
-  width: 720px;
+  width: 520px;
   font-family: 'chaseCoinFont2';
   background: linear-gradient(135deg, #ff00ff, #00ffff);
   -webkit-background-clip: text;
@@ -71,7 +71,7 @@
 
 /* Image Section */
 .imageSection img {
-  width: 600px;
+  width: 450px;
   border-radius: 50px;
   border: 2px dotted #ccc;
 }
