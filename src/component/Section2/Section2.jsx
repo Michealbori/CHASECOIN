@@ -1,0 +1,34 @@
+import React from "react";
+import "./Section2.css"
+// import Aos from "aos";
+// import 'aos/dist/aos.css';
+
+export default function Section2() {
+  return (
+    <div className="HeroSection">
+      <section className="imageSection">
+        <img src="/chase1.jpg" alt="" />
+      </section>
+      <section className="TextSection">
+        <p>The Power of Community</p>
+        <h2>
+          At CHASE COIN, we believe in the strength of our community. Stay
+          updated and connect with fellow meme lovers through our social
+          platforms. Join our vibrant Telegram group for real-time discussions
+          and announcements, and follow us on Twitter for the latest news and
+          updates.
+        </h2>
+        <p> Connect with Fellow CHASE COIN Enthusiasts</p>
+ <div className="Button">
+ <a href="https://t.me/mychasecoin" class="social-btn telegram" target="_blank">
+                <i class="fab fa-telegram-plane"></i>
+            </a>
+            <a href="https://x.com/CHASECOINSOL" class="social-btn twitter" target="_blank">
+                <i class="fab fa-twitter"></i>
+            </a>
+ </div>
+           
+      </section>
+    </div>
+  );
+}

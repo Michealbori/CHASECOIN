@@ -1,0 +1,39 @@
+
+.ChartImage 
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.ChartImage h4
+{
+    color: #ff00ff;
+    font-size: 50px;
+    font-family: 'chase';
+}
+
+.ChartImage p 
+{
+    color: #8484ff;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+@media (max-width: 600px) {
+    .ChartImage h4
+{
+    color: #ff00ff;
+    font-size: 25px;
+    font-family: 'chase';
+}
+
+
+.ChartImage p 
+{
+    color: #8484ff;
+    font-size: 15px;
+    font-weight: 700;
+}
+}

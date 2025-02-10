@@ -1,0 +1,66 @@
+@font-face {
+  font-family: 'chaseCoinFont';
+  src: url('/chase.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.Logo img
+{
+    width: 70px;
+}
+
+.offcanvas-body a 
+{
+ font-weight: 600;
+}
+
+hr {
+    border: 1px dashed #ffffff; 
+    width: 100%;
+    margin: 0px auto;
+  }
+  
+  #PLUS 
+  {
+    color: #F6BE00;
+    font-weight: 900;
+  }
+
+  #Navtext 
+  {
+    color: #ff00ff;
+    font-weight: 600;
+    text-transform: uppercase;
+    text-decoration: none;
+    /* color: #F6BE00; */
+    
+  }
+
+  .offcanvas {
+    background-color: #2e2a58 !important;
+  }
+
+.Start 
+{
+    color: #F6BE00;
+}
+
+.Start img
+{
+width: 20px;
+margin-bottom: 17px;
+}
+
+/* #NavLinks 
+{
+  text-decoration: none;
+  color: #F6BE00;
+  font-family: 'chaseCoinFont';
+} */
+
+.JoinLinks
+{
+  text-decoration: none;
+  color: #ff00ff;
+}

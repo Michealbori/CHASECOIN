@@ -1,0 +1,21 @@
+
+
+
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: radial-gradient(circle at 50% 50%, #2e2a58, #1c1b3a, #0f0e21);
+  animation: gradientAnimation 6s infinite alternate ease-in-out;
+  color: #fff;
+}
+
+@keyframes gradientAnimation {
+  0% {
+      background: radial-gradient(circle at 50% 50%, #2e2a58, #1c1b3a, #0f0e21);
+  }
+  100% {
+      background: radial-gradient(circle at 50% 50%, #3a336d, #232247, #14132d);
+  }
+}

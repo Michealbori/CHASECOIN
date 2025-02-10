@@ -1,0 +1,14 @@
+.Button
+{
+    display: flex;
+    gap: 20px;
+}
+#SectionBelow 
+{
+    margin-bottom: 70px;
+}
+
+#buyNow 
+{
+    margin-top:30px ;
+}

@@ -1,0 +1,60 @@
+
+
+.Section3 
+{
+    margin-top: 150px;
+}
+
+.SectionText3
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.SectionText3 h2
+{
+width: 1000px;
+text-align: center;
+font-family: 'chaseCoinFont2';
+background: linear-gradient(135deg, #ff00ff, #00ffff);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+}
+
+.Section3image 
+{
+    display: flex;
+    justify-content: center;
+}
+
+.Section3image img
+{
+    border-radius: 20px;
+}
+
+.stay 
+{
+    margin-bottom: 50px;
+}
+
+@media (max-width: 600px)  
+{
+    
+.Section3image img
+{
+    width: 350px;
+}
+
+.SectionText3 
+{
+    text-wrap: wrap;
+    padding: 20px;
+}
+.SectionText3 h2 
+{
+    width: 350px;
+    text-wrap: wrap;
+}
+}
