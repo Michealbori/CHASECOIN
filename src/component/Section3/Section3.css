@@ -64,4 +64,9 @@ background: linear-gradient(135deg, #ff00ff, #00ffff);
     width: 350px;
     text-wrap: wrap;
 }
+.stay
+{
+    text-wrap: wrap;
+    width: 350px;
+}
 }

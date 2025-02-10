@@ -14,7 +14,7 @@ export default function Hero() {
             memes while enjoying the benefits of blockchain technology.
           </h2>
           <p>Join the Meme Revolution with CHASE COIN!</p>
-          <button className="shiny-cta"><span>BUY NOW 🪙</span></button>
+          <button className="shiny-cta"><span>BUY NOW <img className="buttonCoin" src="/coin.png" alt="" /> </span></button>
         </section>
 
         <section className="imageSection">
@@ -22,7 +22,7 @@ export default function Hero() {
         </section>
       </div>
       <marquee behavior="" direction="" className="marquee-text">
-        Invest In The Future with CHASE COIN! 🪙
+        Invest In The Future with CHASE COIN!  <img className="buttonCoin" src="/coin.png" alt="" />
       </marquee>
     </>
   );

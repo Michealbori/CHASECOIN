@@ -3,3 +3,13 @@
     display: flex;
     gap: 20px;
 }
+
+.Button img 
+{
+    width: 60px;
+}
+
+.buttonCoin 
+{
+    width: 20px;
+}
