@@ -267,7 +267,7 @@ color: #ff00ff;
   }
 
   .imageSection img {
-    width: 100%;
+    width: 320px;
     border-radius: 50px;
     border: 2px dotted #ccc;
   }
@@ -284,7 +284,6 @@ color: #ff00ff;
   .TextSection  h2 
   {
     width: 350px;
-    /* text-align: center; */
   }
 
   .HeroSection h5 {
