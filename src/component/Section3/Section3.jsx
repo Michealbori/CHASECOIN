@@ -2,7 +2,7 @@ import React from 'react'
 import "./Section3.css"
 import "aos/dist/aos.css";
 import Aos from 'aos';
-export default function Section4() {
+export default function Section3() {
   return (
 <div className='Section3'>
 

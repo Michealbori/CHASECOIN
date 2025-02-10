@@ -1,21 +1,21 @@
 import React from 'react'
 
 import "./Header.css"
-import { Link } from 'react-router-dom'
+
 export default function Header() {
   return (
     <>
                      
     <nav class="navbar navbar-expand-lg">
       <div class="container">
-        <a class=" Logo navbar-brand animate__animated animate__backInDown"> <Link ><img src="/Chase.png" alt="Logo" /></Link> 
+        <a class=" Logo navbar-brand animate__animated animate__backInDown"> <img src="/Chase.png" alt="Logo" />
         </a>
         <button class="navbar-toggler shadow-none border-0" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
         <div class="sidebar offcanvas offcanvas-start" tabindex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel">
           <div class="offcanvas-header">
-            <h5 class="offcanvas-title" id="offcanvasNavbarLabel"> <a class=" Logo navbar-brand"> <Link ><img src="/Chase.png" alt="Logo" /></Link>  </a></h5>
+            <h5 class="offcanvas-title" id="offcanvasNavbarLabel"> <a class=" Logo navbar-brand"> <img src="/Chase.png" alt="Logo" /> </a></h5>
             <button type="button" class="btn-close  shadow-none" data-bs-dismiss="offcanvas" aria-label="Close"></button>
           </div>
           <div class="offcanvas-body">
@@ -43,10 +43,10 @@ export default function Header() {
             </ul>
              <div class="d-flex justify-content-center align-items-center">
               <a href="" class=" Start text-decoration-none">
-                   <Link  className='JoinLinks'>JOIN NOW <img src="/arrow-up.png" alt="" /></Link>
+                   <span  className='JoinLinks'>JOIN NOW <img src="/arrow-up.png" alt="" /> </span>
                   </a>
              </div>
-    
+
           </div>
         </div>
       </div>

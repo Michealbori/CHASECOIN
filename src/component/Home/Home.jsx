@@ -12,13 +12,7 @@ import Chart from '../Chart/Chart'
 export default function Home() {
   return (
     <>
-    <Header />
-      <Hero /> 
-       <Section2 />
-      <Section3 />
-      <Section4 />
-<Chart />
-      <Footer />   
+
 
 
 
