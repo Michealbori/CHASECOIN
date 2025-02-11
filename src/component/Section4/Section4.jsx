@@ -1,12 +1,22 @@
-import React from "react";
+import { useEffect } from "react";
+import AOS from "aos";
+import "aos/dist/aos.css";
 import "./Section4.css"
 export default function Section4() {
+      useEffect(() => {
+        AOS.init({
+          duration: 1000, 
+          
+        });
+      }, []);
   return (
     <div className="HeroSection" id="SectionBelow" >
-      <section className="imageSection">
-        <img src="/chase2.jpg" alt="" />
+      
+      <section className="imageSection"  data-aos="fade-right">
+        <img src="/chase4.jpg" alt="" />
       </section>
-      <section className="TextSection">
+
+      <section className="TextSection" data-aos="fade-left">
         <p>Get Involved and Join the Movement</p>
         <h2>
         To become part of the CHASE COIN movement, you’ll need our contract address to make your purchase and participate in our ecosystem.

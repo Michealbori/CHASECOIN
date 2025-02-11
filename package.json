@@ -1,6 +1,6 @@
 {
   "name": "chase",
-  "homepage" : "https://mychasecoin.com/",
+  "homepage": "https://mychasecoin.com/",
   "private": true,
   "version": "0.0.0",
   "type": "module",

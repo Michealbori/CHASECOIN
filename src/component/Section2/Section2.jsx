@@ -5,7 +5,7 @@ export default function Section2() {
   return (
     <div className="HeroSection">
       <section className="imageSection">
-        <img src="/chase1.jpg" alt="" />
+        <img src="/chase3.jpg" alt="" />
       </section>
       <section className="TextSection">
         <p>The Power of Community</p>
