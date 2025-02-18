@@ -30,7 +30,7 @@ export default function Section2() {
             class="social-btn twitter"
             target="_blank"
           >
-            <img src="/twitter.png" alt="twitter Page" />
+            <img src="/X.png" alt="X Page" />
           </a>
         </div>
       </section>
