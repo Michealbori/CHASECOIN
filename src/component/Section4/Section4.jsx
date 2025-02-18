@@ -38,7 +38,7 @@ export default function Section4() {
             class="social-btn twitter"
             target="_blank"
           >
-            <img src="/twitter.png" alt="twitter Page" />
+            <img src="/X.png" alt="X Page" />
           </a>
         </div>
  <button className="shiny-cta" id="buyNow"><span>BUY NOW <img className="buttonCoin" src="/coin.png" alt="" /></span></button>
