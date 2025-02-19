@@ -6,6 +6,7 @@ import Section2 from "./component/Section2/Section2";
 import Chart from "./component/Chart/Chart";
 import Section3 from "./component/Section3/Section3";
 import Section4 from "./component/Section4/Section4";
+import Iframe from "./component/ChartIframe/Iframe";
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
       <Section3 />
       <Section4 />
       <Chart />
+      {/* <Iframe /> */}
     </>
   );
 }

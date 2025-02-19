@@ -41,10 +41,11 @@ background: linear-gradient(135deg, #ff00ff, #00ffff);
 
 }
 
-.Section3image img
+.Section3image iframe
 {
     border-radius: 20px;
-    width: 70%;
+    width: 1200px;
+    height: 600px;
 }
 
 .stay 
@@ -55,7 +56,7 @@ background: linear-gradient(135deg, #ff00ff, #00ffff);
 @media (max-width: 600px)  
 {
     
-.Section3image img
+.Section3image iframe
 {
     width: 340px;
 }

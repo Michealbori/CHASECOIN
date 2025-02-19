@@ -34,7 +34,7 @@ export default function Section4() {
             <img src="/telegram.png" alt="telegram Page" />
           </a>
           <a
-            href="https://x.com/CHASECOINSOL"
+            href="https://t.me/CHASECOINSOL"
             class="social-btn twitter"
             target="_blank"
           >

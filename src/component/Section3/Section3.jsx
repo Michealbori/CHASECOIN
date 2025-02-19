@@ -25,7 +25,14 @@ export default function Section3() {
 </section>
 
 <section className='Section3image'  data-aos="fade-left">
-<img src="/img.jpg" alt="" />
+{/* <img src="/img.jpg" alt="" /> */}
+<iframe
+        src="https://raydium.io/swap/?inputMint=SOL&outputMint=USDC"
+        width="100%"
+        height="100%"
+        frameBorder="0"
+        allowFullScreen
+      ></iframe>
 </section>
 </div>
   )
