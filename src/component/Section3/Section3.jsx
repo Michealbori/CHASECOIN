@@ -40,3 +40,4 @@ export default function Section3() {
 
 
 // https://raydium.io/swap/?inputMint=sol&outputMint=4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R
+// https://www.dextools.io/app/en/solana/pair-explorer/HPytDUbkYRZTAoAspprgyN7LLfSkBzQXHoKGiHHY9k6c?t=1740008054746
