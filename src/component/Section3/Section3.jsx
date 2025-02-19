@@ -27,7 +27,7 @@ export default function Section3() {
 <section className='Section3image'  data-aos="fade-left">
 {/* <img src="/img.jpg" alt="" /> */}
 <iframe
-        src="https://raydium.io/swap/?inputMint=SOL&outputMint=USDC"
+        src="https://phantom.com/tokens/solana/2ckep8iZpd1YRpMELsBpAL5gkN8jufgvwez491i66Kbx?referralId=glzklvkwynl&timeFrame=1D"
         width="100%"
         height="100%"
         frameBorder="0"
@@ -37,3 +37,6 @@ export default function Section3() {
 </div>
   )
 }
+
+
+// https://raydium.io/swap/?inputMint=sol&outputMint=4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R

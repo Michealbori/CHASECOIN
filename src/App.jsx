@@ -7,6 +7,7 @@ import Chart from "./component/Chart/Chart";
 import Section3 from "./component/Section3/Section3";
 import Section4 from "./component/Section4/Section4";
 import Iframe from "./component/ChartIframe/Iframe";
+import CA from "./component/contractAddress/CA";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <Header />
       <Hero />
       <Section2 />
+      <CA />
       <Section3 />
       <Section4 />
       <Chart />

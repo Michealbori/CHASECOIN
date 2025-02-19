@@ -1,0 +1,21 @@
+
+
+.CA 
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    letter-spacing: 3px;
+    margin-top: 120px;
+    color: #00ffff;
+    font-family: sans-serif;
+}
+
+.CA h4 
+{
+    text-transform: uppercase;
+    color: #fff;
+    font-weight: bold ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
