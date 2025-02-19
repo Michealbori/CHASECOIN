@@ -14,7 +14,8 @@ export default function Hero() {
             memes while enjoying the benefits of blockchain technology.
           </h2>
           <p>Join the Meme Revolution with CHASE COIN!</p>
-          <button className="shiny-cta"><span>BUY NOW <img className="buttonCoin" src="/coin.png" alt="" /> </span></button>
+          <a href="
+      http://dexscreener.com/solana/hpytdubkyrztaoaspprgyn7llfskbzqxhokgihhy9k6c"> <button className="shiny-cta" id="buyNow"><span>BUY NOW <img className="buttonCoin" src="/coin.png" alt="" /></span></button></a>
         </section>
 
         <section className="imageSection">

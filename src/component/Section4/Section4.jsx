@@ -41,7 +41,9 @@ export default function Section4() {
             <img src="/X.png" alt="X Page" />
           </a>
         </div>
- <button className="shiny-cta" id="buyNow"><span>BUY NOW <img className="buttonCoin" src="/coin.png" alt="" /></span></button>
+        <a href="
+      http://dexscreener.com/solana/hpytdubkyrztaoaspprgyn7llfskbzqxhokgihhy9k6c"> <button className="shiny-cta" id="buyNow"><span>BUY NOW <img className="buttonCoin" src="/coin.png" alt="" /></span></button></a>
+
       </section>
     </div>
   );
